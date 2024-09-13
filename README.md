@@ -54,7 +54,7 @@ Prompts utilizados podem ser encontrados no arquivo <a href="regras.md">regras.m
 
 
 <p>
-    <a href="https://github.com/rickrocca">GitHub</a>  
+    <a href="https://github.com/zombzombs">GitHub</a>  
 </p>
 
 <p align="center">
